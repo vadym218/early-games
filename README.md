@@ -19,6 +19,7 @@ More information and projects below
 ![image](https://user-images.githubusercontent.com/31629500/150364176-bed7e06e-8aec-45bc-9dba-82df1c39f08a.png)
 
 # Race95 - Unreal - 2016
+- 1st place in [It-Arena](http://it-arena.org/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA/4095/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8) competition
 - Created on Blueprints
 - Car lights
 - In-game events
