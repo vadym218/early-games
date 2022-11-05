@@ -10,9 +10,9 @@ The games are extremely raw, but If you are still willing to try them out, pleas
 #### 2021
 
 
-### GLSL Star Shader
+### [GLSL Star Shader](https://www.shadertoy.com/view/7s3GzB)
 
-- Click & Drag your mouse: [link](https://www.shadertoy.com/view/7s3GzB)
+- Click & Drag your mouse
 
 <img src="https://user-images.githubusercontent.com/31629500/150376761-23936d4d-1527-40c6-9cba-2473be2902df.png" width="750" />
 
